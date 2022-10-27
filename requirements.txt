@@ -1,0 +1,8 @@
+# requirements.txt
+
+#Flask==1.1.1
+#scipy>=0.15.1
+#scikit-learn
+numpy>=1.9.2
+matplotlib>=1.4.3
+pandas>=0.19
